@@ -5,4 +5,5 @@ then
   exit 1
 fi
 
+PYTHONPATH=$PYTHONPATH:. python3 test/unit.py
 endpoint=`cat endpoint` python3 test/poke.py
