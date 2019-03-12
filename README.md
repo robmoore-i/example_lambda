@@ -1,4 +1,4 @@
-## Example Lambda
+## Example Python Lambda
 
 ### update-lambda.sh
 
